@@ -19,7 +19,7 @@ python counter.py
 
 ## Editing tools:
 
-<img src="images/images8.png" width="100%"/>
+<img src="images/images8.png" width="80%"/>
 
 ### •Change default Timer value:
 
@@ -52,4 +52,4 @@ DISPLAY_SCORE_FONT_SIZES_MULTIPLIER = 3.5 # set score font sizes multiplier
 Uncomment this code
 ```
 
-<img src="images/images10.png" width="100%"/>
+<img src="images/images10.png" width="80%"/>
