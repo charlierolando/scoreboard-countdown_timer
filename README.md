@@ -15,11 +15,11 @@ python scoreboard+timer_countdown.py
 
 ### •The Scoreboard and Countdown Timer GUI will be started:
 
-<img src="images/images1.png" width="40%"/>
+<img src="images/images1.png" width="50%"/>
 
 ## Editing tools:
 
-<img src="images/images8.png" width="80%"/>
+<img src="images/images8.png" width="70%"/>
 
 ### •Change default Timer value:
 
@@ -52,4 +52,4 @@ DISPLAY_SCORE_FONT_SIZES_MULTIPLIER = 3.5 # set score font sizes multiplier
 Uncomment this code
 ```
 
-<img src="images/images10.png" width="80%"/>
+<img src="images/images10.png" width="70%"/>
