@@ -7,10 +7,10 @@
 ```bash
 pip install tk
 ```
-### •And run the program:
+### •Download and run the program:
 
 ```bash
-python counter.py
+python scoreboard+timer_countdown.py
 ```
 
 ### •The Scoreboard and Countdown Timer GUI will be started:
