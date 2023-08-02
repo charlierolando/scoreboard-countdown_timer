@@ -15,11 +15,11 @@ python counter.py
 
 ### •The Scoreboard and Countdown Timer GUI will be started:
 
-<img src="images/images1" width="50%"/>
+<img src="images/images1.png" width="40%"/>
 
 ## Editing tools:
 
-<img src="images/images1" width="50%"/>
+<img src="images/images8.png" width="100%"/>
 
 ### •Change default Timer value:
 
@@ -45,3 +45,11 @@ team_name = ["Team 1", "Team 2", "Team 3", "Team 4", "Team 5"] # set team name
 ```python title="editt.py"
 DISPLAY_SCORE_FONT_SIZES_MULTIPLIER = 3.5 # set score font sizes multiplier
 ```
+
+### •Display Popup message when time's up:
+
+```python title="editt.py"
+Uncomment this code
+```
+
+<img src="images/images10.png" width="100%"/>
