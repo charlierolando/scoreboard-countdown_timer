@@ -1,4 +1,4 @@
-# Scoreboard and Countdown Timer GUI using Tkinter
+# Very simple Scoreboard and Countdown Timer GUI using Tkinter
 
 ## How to use:
 
