@@ -48,8 +48,6 @@ DISPLAY_SCORE_FONT_SIZES_MULTIPLIER = 3.5 # set score font sizes multiplier
 
 ### Display Popup message when time's up:
 
-```python title="editt.py"
-Uncomment this code
-```
+>Uncomment this code
 
 <img src="images/images10.png" width="70%"/>
