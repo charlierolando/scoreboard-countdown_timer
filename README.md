@@ -15,7 +15,7 @@ python scoreboard+timer_countdown.py
 
 ### The Scoreboard and Countdown Timer GUI will be started:
 
-<img src="images/images1.png" width="50%"/>
+<img src="images/images1.png"/>
 
 ## Editing tools:
 
