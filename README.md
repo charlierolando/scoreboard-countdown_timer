@@ -1,8 +1,8 @@
 # Very simple Scoreboard and Countdown Timer GUI using Tkinter
 
-## How to use:
+## [How to use:](#how-to-use)
 
-### To run the Scoreboard and Countdown Timer GUI, install `tkinder` module:
+### To run the Scoreboard and Countdown Timer GUI, install `tkinter` module:
 
 ```bash
 pip install tk
@@ -17,7 +17,7 @@ python scoreboard+timer_countdown.py
 
 <img src="images/images1.png"/>
 
-## Editing tools:
+## [Editing tools:](#editing-tools)
 
 <img src="images/images8.png" width="70%"/>
 
